@@ -43,7 +43,3 @@ tasks {
         delete(rootProject.buildDir)
     }
 }
-
-dependencies {
-    implementation(kotlin("script-runtime"))
-}
